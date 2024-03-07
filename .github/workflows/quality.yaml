@@ -26,7 +26,7 @@ jobs:
         run: pnpm install
 
       - name: Run Prettier check
-        run: pnpm prettier-check
+        run: pnpm prettier
 
   eslint:
     name: 'ESLint'
@@ -47,7 +47,7 @@ jobs:
         run: pnpm install
 
       - name: Run ESLint
-        run: pnpm lint
+        run: pnpm eslint
 
   types:
     name: 'TypeScript'
