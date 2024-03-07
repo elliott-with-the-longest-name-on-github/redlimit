@@ -1,5 +1,11 @@
 # @sejohnson/redlimit
 
+## 1.0.0-alpha.2
+
+### Patch Changes
+
+- c8702fd: chore: Add module and types fields to package.json
+
 ## 1.0.0-alpha.1
 
 ### Patch Changes
