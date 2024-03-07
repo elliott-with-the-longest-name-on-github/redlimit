@@ -1,0 +1,10 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@sejohnson/redlimit": "1.0.0"
+  },
+  "changesets": [
+    "dirty-tomatoes-dance"
+  ]
+}
