@@ -10,3 +10,5 @@ coverage
 .*.js
 .*.yml
 .*.yaml
+tsup.config.js
+vitest.config.js
