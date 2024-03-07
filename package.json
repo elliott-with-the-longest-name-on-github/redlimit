@@ -1,6 +1,6 @@
 {
   "name": "@sejohnson/redlimit",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0-alpha.1",
   "description": "Locking mechanisms based on Redis",
   "type": "module",
   "scripts": {

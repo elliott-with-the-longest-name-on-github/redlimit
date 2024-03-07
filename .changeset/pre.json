@@ -5,6 +5,7 @@
     "@sejohnson/redlimit": "1.0.0"
   },
   "changesets": [
-    "dirty-tomatoes-dance"
+    "dirty-tomatoes-dance",
+    "tasty-guests-tickle"
   ]
 }
